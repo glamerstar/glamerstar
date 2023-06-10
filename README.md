@@ -14,7 +14,7 @@
    
   - 👩‍🚒 Just a Techie
   
-  - 💥 [Current Evaluation] Big O Notation [ Python ].
+  - 💥 [Current Evaluation] Linux
   
   - 🔭 I’m currently working on Database Mysql
    
